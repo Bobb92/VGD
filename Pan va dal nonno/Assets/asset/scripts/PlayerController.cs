@@ -59,6 +59,8 @@ public class PlayerController : MonoBehaviour {
 	// Update is called once per frame
 	void FixedUpdate () {
 
+		float directionfire;
+
 		float movementVertical = Input.GetAxis ("Horizontal");
 		float movementHorizontal = Input.GetAxis ("Vertical");
 		jump = Input.GetAxis ("Jump");
@@ -80,13 +82,27 @@ public class PlayerController : MonoBehaviour {
 			movementHorizontal = 0.0f;
 		}
 
+		if (transform.position.z < 5.0f && movementHorizontal < 0) {
+			movementHorizontal = 0;
+		}
+
+		if (transform.position.z > 53.0f && movementHorizontal > 0) {
+			movementHorizontal = 0;
+		}
+
 		/*hai premuto il tasto c*/
 		if (boom > 0 && PowerBlue) {
 			/*Controllo il tempo passato dall'ultimo proietile uscito*/
 			if (Time.time > attackSpawn + timeAttack) {
 
+				if(movementVertical < 0){
+					directionfire = -1;
+				}else{
+					directionfire = 1;
+				}
+
 				Rigidbody attack = (Rigidbody)Instantiate (Attack, transform.position + new Vector3 (1, 0, 0), transform.rotation);
-				attack.AddForce (new Vector3 (1, 0, 0) * forceAttack);
+				attack.AddForce (new Vector3 (directionfire, 0, 0) * forceAttack);
 				GetComponent<AudioSource> ().PlayOneShot (sparo);
 				attackSpawn = Time.time;
 			}
