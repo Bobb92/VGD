@@ -31,3 +31,36 @@ C:\Users\Salvatore\Documents\VGD\ProvaGioco\Pan va dal nonno\Temp\bin\Debug\Unit
 C:\Users\Salvatore\Documents\VGD\ProvaGioco\Pan va dal nonno\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\Salvatore\Documents\VGD\ProvaGioco\Pan va dal nonno\obj\Debug\Assembly-CSharp.dll
 C:\Users\Salvatore\Documents\VGD\ProvaGioco\Pan va dal nonno\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\obj\Debug\Assembly-CSharp.dll
+C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno\obj\Debug\Assembly-CSharp.pdb

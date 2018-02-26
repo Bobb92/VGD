@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pan va dal nonno", "Assembly-CSharp.csproj", "{AD193C9C-2634-A0D4-744A-7EAA18200480}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pan va dal nonno", "Assembly-CSharp-Editor.csproj", "{71C09193-A2C8-F828-F7D6-A97D9572E69D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{AD193C9C-2634-A0D4-744A-7EAA18200480}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD193C9C-2634-A0D4-744A-7EAA18200480}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD193C9C-2634-A0D4-744A-7EAA18200480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71C09193-A2C8-F828-F7D6-A97D9572E69D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71C09193-A2C8-F828-F7D6-A97D9572E69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71C09193-A2C8-F828-F7D6-A97D9572E69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71C09193-A2C8-F828-F7D6-A97D9572E69D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

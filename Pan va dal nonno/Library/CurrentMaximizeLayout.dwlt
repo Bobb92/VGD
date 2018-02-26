@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 135
+  controlID: 129
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -178,8 +178,8 @@ MonoBehaviour:
     height: 256
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
+    m_SelectedIDs: 2e270000
+    m_LastClickedID: 10030
     m_ExpandedIDs: 18fcffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -221,8 +221,8 @@ MonoBehaviour:
     y: 277
     width: 232
     height: 398
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
+  m_MinSize: {x: 232, y: 271}
+  m_MaxSize: {x: 10002, y: 10021}
   m_ActualView: {fileID: 7}
   m_Panes:
   - {fileID: 7}
@@ -265,18 +265,19 @@ MonoBehaviour:
     m_ScenePaths: []
     m_ShowAllHits: 0
     m_SearchArea: 0
-    m_Folders: []
+    m_Folders:
+    - Assets/asset/scripts
   m_ViewMode: 0
   m_StartGridSize: 75
   m_LastFolders: []
   m_LastFoldersGridSize: 75
-  m_LastProjectPath: C:\Users\Salvatore\Documents\VGD\ProvaGioco\Pan va dal nonno
+  m_LastProjectPath: C:\Users\Salvatore\Desktop\Progetto VGD\Pan va dal nonno
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: fc260000
     m_LastClickedID: 9980
-    m_ExpandedIDs: 00000000682600009e260000ac260000d6260000ea260000ee280000f0280000f2280000f4280000f6280000f8280000fa280000fc280000
+    m_ExpandedIDs: 00000000642600009a260000a8260000b2260000e6260000ec280000ee280000f0280000f2280000f4280000f6280000f8280000fa280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -302,9 +303,9 @@ MonoBehaviour:
       m_ResourceFile: 
   m_AssetTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    m_SelectedIDs: 2e270000
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000682600009e260000ac260000d6260000ea260000ee280000f0280000f2280000f4280000f6280000f8280000fa280000fc280000
+    m_ExpandedIDs: 00000000642600009a260000a8260000b2260000e6260000ec280000ee280000f0280000f2280000f4280000f6280000f8280000fa280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -329,8 +330,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs: 2e270000
+    m_LastClickedInstanceID: 10030
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
@@ -382,7 +383,7 @@ MonoBehaviour:
   m_MinSize: {x: 204, y: 442}
   m_MaxSize: {x: 4004, y: 8042}
   vertical: 1
-  controlID: 114
+  controlID: 108
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -505,14 +506,14 @@ MonoBehaviour:
     width: 853
     height: 368
   m_SceneLighting: 1
-  lastFramingTime: 1930.9695108658016
+  lastFramingTime: 548.08813144461
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 106.01367, y: 11.828125, z: 4.40625}
+    m_Target: {x: 42.53723, y: 16.195312, z: -12.65625}
     speed: 2
-    m_Value: {x: 106.01367, y: 11.828125, z: 4.40625}
+    m_Value: {x: 42.53723, y: 16.195312, z: -12.65625}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -535,13 +536,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.32613668, y: 0.06374389, z: -0.022047523, w: -0.942917}
+    m_Target: {x: -0.30981487, y: 0.004278731, z: -0.0013940496, w: -0.9507906}
     speed: 2
-    m_Value: {x: -0.32613668, y: 0.06374389, z: -0.022047523, w: -0.942917}
+    m_Value: {x: -0.30981362, y: 0.004278714, z: -0.0013940439, w: -0.9507867}
   m_Size:
-    m_Target: 60.817333
+    m_Target: 75.61218
     speed: 2
-    m_Value: 60.817333
+    m_Value: 75.61218
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -596,8 +597,8 @@ MonoBehaviour:
     y: 389
     width: 857
     height: 286
-  m_MinSize: {x: 204, y: 221}
-  m_MaxSize: {x: 4004, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 2}
@@ -658,7 +659,7 @@ MonoBehaviour:
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
-    m_CachedPref: 169
+    m_CachedPref: 191
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}

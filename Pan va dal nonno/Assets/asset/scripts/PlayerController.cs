@@ -60,6 +60,7 @@ public class PlayerController : MonoBehaviour {
 	void FixedUpdate () {
 
 		float movementVertical = Input.GetAxis ("Horizontal");
+		float movementHorizontal = Input.GetAxis ("Vertical");
 		jump = Input.GetAxis ("Jump");
 		float boom = Input.GetAxis ("Fire");
 
@@ -75,6 +76,10 @@ public class PlayerController : MonoBehaviour {
 			superJump = false;
 		} 
 
+		if(!(transform.position.x > 60 && transform.position.x < 100 )){
+			movementHorizontal = 0.0f;
+		}
+
 		/*hai premuto il tasto c*/
 		if (boom > 0 && PowerBlue) {
 			/*Controllo il tempo passato dall'ultimo proietile uscito*/
@@ -87,7 +92,7 @@ public class PlayerController : MonoBehaviour {
 			}
 		}
 
-		movPlayer = new Vector3 (  movementVertical , movementJump , 0);
+		movPlayer = new Vector3 (  movementVertical , movementJump , movementHorizontal);
 
 		player.Move (movPlayer * speed * Time.deltaTime);
 
